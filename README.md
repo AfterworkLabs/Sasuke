@@ -1,0 +1,2 @@
+# sasuke
+Randomizer Server
